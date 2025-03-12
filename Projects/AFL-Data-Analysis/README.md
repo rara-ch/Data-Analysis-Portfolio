@@ -38,6 +38,8 @@ These stats are only considering the players who have played at least 25 games s
 [player_analysis.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/player_analysis.sql) <br>
 The average amount of votes for a player in a single season since 2012 is 1.78.
 ### General Analysis
-6. For every score, what percentage of scores are goals versus behinds?
-7. Has the average combined scores for games changed over the seasons?
-8. For the 2024 season, what team averaged the most and least amount of tackles? What is the range of this and how did it impact team performance?
+6. **For every score, what percentage of scores are goals versus behinds?** <br>
+For each score, 54.24% are goals while 45.76% are behinds. <br>
+7. Has the average combined scores for games changed over the seasons? <br>
+The average combined scores for games has generally decreased since 2012. In 2012 to 2013, the average combined scores were in the 180s, from 2014 to 2017, they were in the 170s, and frim 2018 onwards, the combined scores have been in the 160s (exculding 2020 when the average combined scores were 121). <br?
+9. For the 2024 season, what team averaged the most and least amount of tackles? What is the range of this and how did it impact team performance?
