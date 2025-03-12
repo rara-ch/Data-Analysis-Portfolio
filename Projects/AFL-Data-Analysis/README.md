@@ -12,8 +12,6 @@ The database contains three CSV files:
 - **games** (Primary Key: **GameID**) --> every game from the beginning of the 2012 season to the end of the 2024 season.
 - **players** (Primary Key: **PlayerID**) --> every player who played in the AFL between the 2012 and 2024 seasons.
 - **stats** (Foreign Keys: **GameID** and **PlayerID**)  --> all stats from each player from each game. <br>
-<br>
-I also created a view, which can be found [here](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/create_team_games_view.sql) <br>
 
 ## Analysis
 ### Team Analysis
@@ -26,10 +24,10 @@ The best season seen in the AFL since 2012 were Hawthorn in 2013, winning 86.4% 
 The average attendance of all games since 2012 is 32,034. Collingwood averaged the most people at their games during this period with an average of 48,505 while Gold Coast had the least with an average of 16,942. Out of all the venues that held 15 or more games, the venue with the highest average attendance was the M.C.G with 51,934.
 
 3. **How do different variables, such as wet versus dry and home versus away, affect the performance of each team?** <br>
-**Home/Away** <br>
+*Home/Away* <br>
 [home_versus_away.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/home_versus_away.sql) <br>
 On average, a team wins 13% more of their games at home than away. Geelong has the biggest difference, winning 26.4% more of their games at home than away. Interestingly, Collingwood win 1% more games when they're away than at home while Melbourne win the exact same amount. <br>
-**Wet/Dry** <br>
+*Wet/Dry* <br>
 [wet_versus_dry.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/wet_versus_dry.sql) <br>
 Brisbane have the biggest difference in win percentage in wet versus dry conditions winning 10.3% more of their games when it's dry compared to when it is wet. St. Kilda (10.1%) and Gold Coast (9.1%) follow them. On the other hand, Richmond win 8.2% more of their games in wet conditions compared to dry conditions, which is the biggest difference in teams who win more in the wet.   
 ### Player Analysis
