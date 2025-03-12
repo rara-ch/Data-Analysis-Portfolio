@@ -3,6 +3,9 @@
 Hi, I'm **Rahul Chitkara**, a distinction-average **mathematics** and **arts** graduate from **Monash University** with expertise in **SQL** and **Python** (**Pandas**, **NumPy**, **Matplotlib**, **Seaborn**). I have the ability to utilise data to uncover trends and insights for successful decision-making. Therefore, this repository aims to demonstate these skills with personal projects.
 ## Contents
 - [Overview](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#overview)
+- [Portfolio Projects](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Education](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Contact](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
 ## Education
 *Monash* *University* | **Bachelor of Science - Mathematics** <br>
