@@ -9,6 +9,8 @@ Hi, I'm **Rahul Chitkara**, a distinction-average **mathematics** and **arts** g
 - [Education](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
+### SQL
+- [AFL Data Analytics Project](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/README.md)
 ## Education
 *Monash* *University* | **Bachelor of Science - Mathematics** <br>
 *Monash* *University* | **Bachelor of Arts - History and Philosophy**
