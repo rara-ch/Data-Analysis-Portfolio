@@ -21,7 +21,7 @@ The best season seen in the AFL since 2012 were Hawthorn in 2013, winning 86.4% 
 2. **What is the average attendance for each team and venue?** <br>
 The average attendance of all games since 2012 is 32,034. Collingwood averaged the most people at their games during this period with an average of 48,505 while Gold Coast had the least with an average of 16,942. Out of all the venues that held 15 or more games, the venue with the highest average attendance was the M.C.G with 51,934.
 
-4. How do different variables, such as wet versus dry and home versus away, affect the performance of each team? <br>
+3. **How do different variables, such as wet versus dry and home versus away, affect the performance of each team?** <br>
 **Home/Away** <br>
 On average, a team wins 13% more of their games at home than away. Geelong has the biggest difference, winning 26.4% more of their games at home than away. Interestingly, Collingwood win 1% more games when they're away than at home while Melbourne win the exact same amount. <br>
 **Wet/Dry** <br>
@@ -33,4 +33,3 @@ Brisbane have the biggest difference in win percentage in wet versus dry conditi
 6. For every score, what percentage of scores are goals versus behinds?
 7. Has the average combined scores for games changed over the seasons?
 8. For the 2024 season, what team averaged the most and least amount of tackles? What is the range of this and how did it impact team performance?
-## Results
