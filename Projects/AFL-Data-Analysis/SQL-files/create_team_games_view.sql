@@ -6,23 +6,23 @@ whether the game was won, lost, or drawn and whether the game was played home or
 */
 
 CREATE VIEW team_games AS
-WITH foundation_of_view AS ( 								-- Create everything but the result column.
-					SELECT 	 GameID, year, Round, Date,
-							 hometeam as Team,
-							 'H' as HomeAway,
-							 hometeamscore as TeamScore, 
-							 awayteamscore as OpponentScore,
-							 MaxTemp, MinTemp, Rainfall, Venue, StartTime, Attendance
-					FROM 	 games
-					UNION ALL
-					SELECT 	 GameID, year, Round, Date,
-							 awayteam as Team,
-							 'A' as HomeAway,
-							 awayteamscore as TeamScore,
-							 hometeamscore as OpponentScore ,
-							 MaxTemp, MinTemp, Rainfall, Venue, StartTime, Attendance
-					FROM 	 games
-)															-- Add the result column.
+WITH foundation_of_view AS ( 					-- Create everything but the result column.
+			SELECT 	 GameID, year, Round, Date,
+					 hometeam as Team,
+					 'H' as HomeAway,
+					 hometeamscore as TeamScore, 
+					 awayteamscore as OpponentScore,
+					 MaxTemp, MinTemp, Rainfall, Venue, StartTime, Attendance
+			FROM 	 games
+			UNION ALL
+			SELECT 	 GameID, year, Round, Date,
+					 awayteam as Team,
+					 'A' as HomeAway,
+					 awayteamscore as TeamScore,
+					 hometeamscore as OpponentScore ,
+					 MaxTemp, MinTemp, Rainfall, Venue, StartTime, Attendance
+			FROM 	 games
+)							-- Add the result column.
 SELECT 	 GameID, Year, Round, Date, Team, HomeAway, TeamScore, OpponentScore,
 		 CASE
 			WHEN teamscore > opponentscore THEN 'W'
