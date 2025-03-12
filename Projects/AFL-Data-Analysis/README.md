@@ -31,8 +31,10 @@ On average, a team wins 13% more of their games at home than away. Geelong has t
 [wet_versus_dry.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/wet_versus_dry.sql) <br>
 Brisbane have the biggest difference in win percentage in wet versus dry conditions winning 10.3% more of their games when it's dry compared to when it is wet. St. Kilda (10.1%) and Gold Coast (9.1%) follow them. On the other hand, Richmond win 8.2% more of their games in wet conditions compared to dry conditions, which is the biggest difference in teams who win more in the wet.   
 ### Player Analysis
-4. Which players have the highest average perfomance in major statistics, such as disposals, goals, and marks?
-5. What is the average number of brownlow votes for a player in a season? 
+4. **Which players have the highest average perfomance in major statistics, such as disposals, goals, tackles, and marks?** <br>
+These stats are only considering the players who have played at least 25 games since 2012. Dane Swan averaged the most amount of disposals per game since 2012 with 29.82 per game. The least was Jade Gresham with 17.68 per game. Lance Franklin averaged the highest amount of goals per game since 2012 with 2.9 per game. The least was Leigh Adams with 0.65 per game. Matt Rowell averaged the most amount of tackles per game since 2012 with 7.14 per game. The least was David Cuningham and Tim English with 3.17 each per game. Nick Riewoldt averaged the most marks per game since 2012 with 8.8 per game. Four players tied last with 4.47 marks per game each.
+5. **What is the average number of brownlow votes for a player in a season?** <br>
+The average amount of votes for a player in a single season since 2012 is 1.78.
 ### General Analysis
 6. For every score, what percentage of scores are goals versus behinds?
 7. Has the average combined scores for games changed over the seasons?
