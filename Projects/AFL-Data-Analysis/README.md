@@ -3,7 +3,7 @@
 The aim of this project is to utise SQL, specifically MySQL and MySQL Workbench, to find interesting facts and insights 
 about the Australian Football League (AFL) from the 2012 season to the 2024 season.
 ## Data
-The data was sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/stoney71/aflstats). <br>
+The data was sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/stoney71/aflstats). Please note that, using Excel, I altered the formatting of some columns to be more MySQL friendly. <br> <br>
 The database contains three CSV files:
 - **games** (Primary Key: **GameID**) --> every game from the beginning of the 2012 season to the end of the 2024 season.
 - **players** (Primary Key: **PlayerID**) --> every player who played in the AFL between the 2012 and 2024 seasons.
