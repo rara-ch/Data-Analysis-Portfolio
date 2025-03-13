@@ -29,17 +29,23 @@ The average attendance of all games since 2012 is 32,034. Collingwood averaged t
 On average, a team wins 13% more of their games at home than away. Geelong has the biggest difference, winning 26.4% more of their games at home than away. Interestingly, Collingwood win 1% more games when they're away than at home while Melbourne win the exact same amount. <br>
 *Wet/Dry* <br>
 [wet_versus_dry.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/wet_versus_dry.sql) <br>
-Brisbane have the biggest difference in win percentage in wet versus dry conditions winning 10.3% more of their games when it's dry compared to when it is wet. St. Kilda (10.1%) and Gold Coast (9.1%) follow them. On the other hand, Richmond win 8.2% more of their games in wet conditions compared to dry conditions, which is the biggest difference in teams who win more in the wet.   
+Brisbane have the biggest difference in win percentage in wet versus dry conditions winning 10.3% more of their games when it's dry compared to when it is wet. St. Kilda (10.1%) and Gold Coast (9.1%) follow them. On the other hand, Richmond win 8.2% more of their games in wet conditions compared to dry conditions, which is the biggest difference in teams who win more in the wet.
+
+4. **For the 2024 season, what team averaged the most and least amount of tackles?** <br>
+Port Adelaide averaged the most amount of tackles in 2024 with 66 per game. Richmond averaged the least amount of tackles with 51 per game. 
+
 ### Player Analysis
-4. **Which players have the highest average perfomance in major statistics, such as disposals, goals, tackles, and marks?** <br>
+5. **Which players have the highest average perfomance in major statistics, such as disposals, goals, tackles, and marks?** <br>
 [player_analysis.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/player_analysis.sql) <br>
 These stats are only considering the players who have played at least 25 games since 2012. Dane Swan averaged the most amount of disposals per game since 2012 with 29.82 per game. The least was Jade Gresham with 17.68 per game. Lance Franklin averaged the highest amount of goals per game since 2012 with 2.9 per game. The least was Leigh Adams with 0.65 per game. Matt Rowell averaged the most amount of tackles per game since 2012 with 7.14 per game. The least was David Cuningham and Tim English with 3.17 each per game. Nick Riewoldt averaged the most marks per game since 2012 with 8.8 per game. Four players tied last with 4.47 marks per game each. <br>
-5. **What is the average number of brownlow votes for a player in a season?** <br>
+
+6. **What is the average number of brownlow votes for a player in a season?** <br>
 [player_analysis.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/player_analysis.sql) <br>
 The average amount of votes for a player in a single season since 2012 is 1.78.
+
 ### General Analysis
-6. **For every score, what percentage of scores are goals versus behinds?** <br>
+7. **For every score, what percentage of scores are goals versus behinds?** <br>
 For each score, 54.24% are goals while 45.76% are behinds. <br>
-7. Has the average combined scores for games changed over the seasons? <br>
-The average combined scores for games has generally decreased since 2012. In 2012 to 2013, the average combined scores were in the 180s, from 2014 to 2017, they were in the 170s, and frim 2018 onwards, the combined scores have been in the 160s (exculding 2020 when the average combined scores were 121). <br?
-9. For the 2024 season, what team averaged the most and least amount of tackles? What is the range of this and how did it impact team performance?
+
+8. **Has the average combined scores for games changed over the seasons?** <br>
+The average combined scores for games has generally decreased since 2012. In 2012 to 2013, the average combined scores were in the 180s, from 2014 to 2017, they were in the 170s, and frim 2018 onwards, the combined scores have been in the 160s (exculding 2020 when the average combined scores were 121).
