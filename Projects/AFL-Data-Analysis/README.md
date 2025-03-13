@@ -32,6 +32,7 @@ On average, a team wins 13% more of their games at home than away. Geelong has t
 Brisbane have the biggest difference in win percentage in wet versus dry conditions winning 10.3% more of their games when it's dry compared to when it is wet. St. Kilda (10.1%) and Gold Coast (9.1%) follow them. On the other hand, Richmond win 8.2% more of their games in wet conditions compared to dry conditions, which is the biggest difference in teams who win more in the wet.
 
 4. **For the 2024 season, what team averaged the most and least amount of tackles?** <br>
+[avg_team_tackles_2024.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/avg_team_tackles_2024.sql) <br>
 Port Adelaide averaged the most amount of tackles in 2024 with 66 per game. Richmond averaged the least amount of tackles with 51 per game. 
 
 ### Player Analysis
@@ -45,7 +46,9 @@ The average amount of votes for a player in a single season since 2012 is 1.78.
 
 ### General Analysis
 7. **For every score, what percentage of scores are goals versus behinds?** <br>
+[compared_goals_behinds.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/compared_goals_behinds.sql) <br>
 For each score, 54.24% are goals while 45.76% are behinds. <br>
 
 8. **Has the average combined scores for games changed over the seasons?** <br>
+[avg_combined_scores.sql](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/SQL-files/avg_combined_scores.sql) <br>
 The average combined scores for games has generally decreased since 2012. In 2012 to 2013, the average combined scores were in the 180s, from 2014 to 2017, they were in the 170s, and frim 2018 onwards, the combined scores have been in the 160s (exculding 2020 when the average combined scores were 121).
