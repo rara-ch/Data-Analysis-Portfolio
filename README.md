@@ -11,6 +11,8 @@ Hi, I'm **Rahul Chitkara**, a distinction-average **mathematics** and **arts** g
 ## Portfolio Projects
 ### SQL
 - [AFL Data Analytics Project](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/AFL-Data-Analysis/README.md)
+### Python
+- [Beverage Sales Data Analytics Project](https://github.com/rara-ch/Data-Analysis-Portfolio/blob/main/Projects/Beverage-Sales-Data-Analysis/synthetic-beverage-sales-data-analysis.ipynb)
 ## Education
 *Monash* *University* | **Bachelor of Science - Mathematics** <br>
 *Monash* *University* | **Bachelor of Arts - History and Philosophy**
